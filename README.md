@@ -227,8 +227,11 @@ Through this project, I gained experience in:
 ## Course Information
 
 **Course**: OOP244 - Introduction to Object-Oriented Programming
+
 **Institution:** Seneca Polytechnic
+
 **Semester:** Winter 2026
+
 **Language**: C++11
 
 ---
